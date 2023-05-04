@@ -1,0 +1,18 @@
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:blue;
+    text-decoration-line: overline ;
+}
+
+navbar-nav{
+    background-color: yellow;
+}
+a:hover{
+    background-color: tomato;
+}
